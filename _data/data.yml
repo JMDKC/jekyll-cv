@@ -1,15 +1,11 @@
-name: John Doe
+name: Joseph Clift
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  github: jmdkc
+  twitter: jmdkc
 
 languages:
   - idiom: English
