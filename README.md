@@ -1,6 +1,8 @@
-# CV jekyll theme
+# Joe's lifting PBs
 
-Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavrospanakakis.com/).
+Adaptation of the jekyll-cv theme to track my PBs. Info about the theme below.
+
+View demo [here](https://jekyll-cv.stavrospanakakis.com/).
 
 ## Features
 - Lightweight
